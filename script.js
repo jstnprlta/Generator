@@ -177,5 +177,5 @@ function writePassword() {
   basePassword = ""; // Resets the value of the password
 }
 
-// Add event listener to generate button
+//Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
