@@ -1,6 +1,6 @@
 <h1>Generator</h1>
 
-<h2>I have providede my code with commnads that I researched and slapped together with information that I learned from this lesson.</h2>
+<h2>I have providede my code with commands that I researched and slapped together with information that I learned from this lesson.</h2>
 
 <ul>
   <li>I added comments to my page javascript code</li>
